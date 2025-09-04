@@ -10,6 +10,23 @@ Fernando Fernandes Prado - 557982
 
 Eduardo Augusto Pelegrino Einsfeldt - 556460
 
+# Como usar / componentes 
+== componentes ==
+
+2 leds 
+
+1 esp32
+
+1 protoboard
+
+9 cabos para conectar
+
+1 potenciometro
+
+== como usar == 
+
+conecte os cabos de acorco com a imagem do read.me 
+na ide do arduino vá em file -> abrir arquivo(abra o arquivo .ino do repositorio) -> faça um upload com o arduino conectado no computador.
 
 # Código
 ```bash
